@@ -7,7 +7,6 @@ function app(){
       <p>Base line.</p>
       <h1 className="heading">I am Sk Saifee, I am a React developer.</h1>
       <p>New line added.</p>
-      <h1 className="heading">I am Sk Saifee, I am a React developer</h1>
     </div>
   )
 }
