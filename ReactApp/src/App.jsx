@@ -4,7 +4,7 @@ function app(){
     <div>
       <img src={logo} alt="logo" />
       <p>New line added.</p>
-      <h1 className="heading">I am Sk Saifee, I am a React developer.</h1>
+      <h1 className="heading">I am Sk Saifee, I am a React developer</h1>
     </div>
   )
 }
