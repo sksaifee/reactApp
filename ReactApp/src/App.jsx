@@ -4,9 +4,9 @@ function app(){
   return (
     <div>
       <img src={logo} alt="logo"/>
-      <p>Base line added.</p>
-      <p>New line added</p>
       <h1 className="heading">I am Sk Saifee, I am a React developer.</h1>
+      <p>Base line added.</p>
+      <p>New line added.</p>
     </div>
   )
 }
