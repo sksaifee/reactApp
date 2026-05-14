@@ -26,6 +26,10 @@ body .heading{
   text-align: center;
   padding: 20px;
 }
+body{
+  padding: 20px;
+  text-align: center;
+}
 .logo{
   width: 100px;
   height: 100px;
