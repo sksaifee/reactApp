@@ -1,12 +1,11 @@
 import './App.css'
-import logo from './assets/react.svg'
+import logo from './assets/logo.jpeg'
 function app(){
   return (
     <div>
-      <img src={logo} alt="logo"/>
+      <img className='logo' src={logo} alt="logo"/>
       <h1 className="heading">Tamanna's Hut Of Purity.</h1>
-      <h2>Welcome to Tamanna's Hut Of Purity.</h2>
-      <p>This is a website for Tamanna's Hut Of Purity.</p>
+      <h2>Coming Soon...</h2>
     </div>
   )
 }
