@@ -6,7 +6,7 @@ function app(){
       <img className='logo' src={logo} alt="logo"/>
       <h1 className="heading">Tamanna's Hut Of Purity.</h1>
       <h2>Coming Soon...</h2>
-      <a href="https://www.meesho.com/TamannasHut">Buy Now</a>
+      <a href="https://www.meesho.com/TamannasHut" target='_blank'>Buy Now</a>
     </div>
   )
 }
